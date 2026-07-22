@@ -24,3 +24,10 @@ outputs/*.png
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Ignore datasets
+data/*.csv
+
+# Ignore generated outputs
+outputs/*.csv
+outputs/*.png

@@ -34,7 +34,11 @@ It helps recruiters shortlist the best candidates quickly and efficiently.
 - Streamlit
 
 ---
+The dataset is not included in this repository because of its size.
 
+Download the resume dataset and place `Resume.csv` inside the `data/` folder before running the project.
+
+https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
 ## 📂 Project Structure
 
 ```

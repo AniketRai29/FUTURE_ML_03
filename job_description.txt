@@ -1,0 +1,26 @@
+Software Engineer
+
+Required Skills:
+
+Python
+Java
+C++
+SQL
+JavaScript
+React
+Node.js
+Machine Learning
+Deep Learning
+Data Analysis
+Pandas
+NumPy
+Scikit-learn
+TensorFlow
+PyTorch
+Git
+GitHub
+HTML
+CSS
+Problem Solving
+Communication
+Teamwork
